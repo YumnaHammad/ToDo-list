@@ -1,0 +1,107 @@
+.card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #d3d3d3;
+  }
+
+  
+  /* General styles */
+.Todo {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Header and input styles */
+  .Top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    width: 70%;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  /* Button styles */
+  .btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #f0f0f0;
+  }
+  
+  /* List item styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 8px;
+    border-radius: 5px;
+  }
+  
+  .task button {
+    padding: 6px 12px;
+    font-size: 12px;
+    cursor: pointer;
+    background-color: #ff6347;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .task button:hover {
+    background-color: #d32f2f;
+  }
+  
